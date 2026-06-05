@@ -1,8 +1,19 @@
 {
-    "activeFile": "",
+    "activeFile": "mapa.json",
     "expandedProjectPaths": [
     ],
     "fileStates": {
+        "mapa.json": {
+            "scale": 0.49281250000000004,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1033.8617628408372,
+                "y": 437.28598604946103
+            }
+        },
+        "mapa.json#background": {
+            "scaleInDock": 0.25
+        }
     },
     "last.imagePath": "C:/Users/MAICOL/Juegos-interactivos/NASIMBA-QUINGA-MAICOL-ESTUARDO-juegswgr1/00-2d",
     "map.height": 10,
@@ -11,9 +22,11 @@
     "map.tileWidth": 64,
     "map.width": 20,
     "openFiles": [
+        "mapa.json"
     ],
     "project": "sin nombre.tiled-project",
     "recentFiles": [
+        "mapa.json"
     ],
     "tileset.embedInMap": true,
     "tileset.tileSize": {
