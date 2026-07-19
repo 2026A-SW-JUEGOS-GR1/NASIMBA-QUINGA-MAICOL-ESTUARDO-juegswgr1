@@ -1,0 +1,58 @@
+{
+    "tags": null,
+    "position": [
+        -0.32778537273407,
+        0.972967505455017,
+        -0.0860188528895378
+    ],
+    "rotation": [
+        0,
+        0,
+        0
+    ],
+    "rotationQuaternion": [
+        0.756916224956512,
+        1.16688321227798e-8,
+        0.653511941432953,
+        2.74418834322887e-8
+    ],
+    "scaling": [
+        626.775695800781,
+        626.775573730469,
+        626.775573730469
+    ],
+    "billboardMode": 0,
+    "scalingDeterminant": 1,
+    "infiniteDistance": false,
+    "ignoreNonUniformScaling": false,
+    "reIntegrateRotationIntoRotationQuaternion": false,
+    "name": "Office Phone.002",
+    "id": "606f16ba-fbb5-4a88-92cf-993ac33e053f",
+    "state": "",
+    "metadata": {
+        "parentId": 1784429350191
+    },
+    "type": "TransformNode",
+    "uniqueId": 1784429350197,
+    "localMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "isEnabled": true,
+    "animations": [],
+    "ranges": []
+}

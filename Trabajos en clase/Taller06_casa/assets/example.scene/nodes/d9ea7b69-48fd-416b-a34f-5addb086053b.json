@@ -1,0 +1,185 @@
+{
+    "tags": null,
+    "position": [
+        -0.002398371696472168,
+        1.8754327297210693,
+        0.000008195638656616211
+    ],
+    "rotation": [
+        0,
+        0,
+        0
+    ],
+    "rotationQuaternion": [
+        7.101334631443024e-9,
+        1.1641521080463235e-10,
+        -9.720681148905896e-9,
+        1
+    ],
+    "scaling": [
+        0.9999999403953552,
+        1,
+        1
+    ],
+    "billboardMode": 0,
+    "scalingDeterminant": 1,
+    "infiniteDistance": false,
+    "ignoreNonUniformScaling": false,
+    "reIntegrateRotationIntoRotationQuaternion": false,
+    "name": "mixamorig6:RightHandPinky4",
+    "id": "d9ea7b69-48fd-416b-a34f-5addb086053b",
+    "state": "",
+    "metadata": {
+        "parentId": 1784046415048
+    },
+    "type": "TransformNode",
+    "uniqueId": 1784046415047,
+    "localMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "isEnabled": true,
+    "animations": [
+        {
+            "name": "Armature|mixamo.com|Layer0_channel162_0",
+            "property": "position",
+            "framePerSecond": 60,
+            "dataType": 1,
+            "loopBehavior": 1,
+            "blendingSpeed": 0.01,
+            "keys": [
+                {
+                    "frame": 0,
+                    "values": [
+                        -0.002398371696472168,
+                        1.8754327297210693,
+                        0.000008195638656616211,
+                        null,
+                        null,
+                        1
+                    ]
+                },
+                {
+                    "frame": 2.0000001043081284,
+                    "values": [
+                        -0.002398371696472168,
+                        1.8754327297210693,
+                        0.000008195638656616211,
+                        null,
+                        null,
+                        1
+                    ]
+                },
+                {
+                    "frame": 60,
+                    "values": [
+                        -0.002403855323791504,
+                        1.8754379749298096,
+                        0.000009149312973022461,
+                        null,
+                        null,
+                        1
+                    ]
+                }
+            ],
+            "ranges": []
+        },
+        {
+            "name": "Armature|mixamo.com|Layer0_channel163_0",
+            "property": "rotationQuaternion",
+            "framePerSecond": 60,
+            "dataType": 2,
+            "loopBehavior": 1,
+            "blendingSpeed": 0.01,
+            "keys": [
+                {
+                    "frame": 0,
+                    "values": [
+                        7.101334631443024e-9,
+                        1.1641521080463235e-10,
+                        -9.720681148905896e-9,
+                        1
+                    ]
+                },
+                {
+                    "frame": 2.0000001043081284,
+                    "values": [
+                        7.101334631443024e-9,
+                        1.1641521080463235e-10,
+                        -9.720681148905896e-9,
+                        1
+                    ]
+                },
+                {
+                    "frame": 60,
+                    "values": [
+                        2.200249760164752e-8,
+                        -1.1990779924531125e-8,
+                        7.974450433323454e-9,
+                        1
+                    ]
+                }
+            ],
+            "ranges": []
+        },
+        {
+            "name": "Armature|mixamo.com|Layer0_channel164_0",
+            "property": "scaling",
+            "framePerSecond": 60,
+            "dataType": 1,
+            "loopBehavior": 1,
+            "blendingSpeed": 0.01,
+            "keys": [
+                {
+                    "frame": 0,
+                    "values": [
+                        0.9999999403953552,
+                        1,
+                        1,
+                        null,
+                        null,
+                        1
+                    ]
+                },
+                {
+                    "frame": 2.0000001043081284,
+                    "values": [
+                        0.9999999403953552,
+                        1,
+                        1,
+                        null,
+                        null,
+                        1
+                    ]
+                },
+                {
+                    "frame": 60,
+                    "values": [
+                        1,
+                        1.0000001192092896,
+                        0.9999999403953552,
+                        null,
+                        null,
+                        1
+                    ]
+                }
+            ],
+            "ranges": []
+        }
+    ],
+    "ranges": []
+}

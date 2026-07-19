@@ -1,0 +1,239 @@
+{
+    "meshes": [
+        {
+            "name": "Ventana (Clone)",
+            "id": "5564d7ae-0b6e-43b9-9813-64eb9c81a6c0",
+            "uniqueId": 1784427731162,
+            "type": "Mesh",
+            "position": [
+                -504.62378621960437,
+                430.20724396784306,
+                83.00654296953378
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scaling": [
+                0.2,
+                2.3,
+                4.1
+            ],
+            "localMatrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "isEnabled": true,
+            "isVisible": true,
+            "infiniteDistance": false,
+            "pickable": true,
+            "receiveShadows": true,
+            "billboardMode": 0,
+            "visibility": 1,
+            "alwaysSelectAsActiveMesh": false,
+            "checkCollisions": true,
+            "ellipsoid": [
+                0.5,
+                1,
+                0.5
+            ],
+            "ellipsoidOffset": [
+                0,
+                0,
+                0
+            ],
+            "doNotSyncBoundingInfo": false,
+            "isBlocker": false,
+            "sideOrientation": 1,
+            "isUnIndexed": false,
+            "geometryUniqueId": 1781908956490,
+            "geometryId": "49a6caf4-ce6f-400b-a320-a23ea8091f0c",
+            "subMeshes": null,
+            "materialUniqueId": 1784427731161,
+            "materialId": "f882a4ea-b8e2-4af2-bee5-1143275448e2",
+            "metadata": {
+                "type": "Box",
+                "width": 100,
+                "depth": 100,
+                "height": 100,
+                "sideOrientation": 0
+            },
+            "instances": [],
+            "animations": [],
+            "ranges": [],
+            "layerMask": 268435455,
+            "alphaIndex": 1.7976931348623157e+308,
+            "hasVertexAlpha": false,
+            "overlayAlpha": 1,
+            "overlayColor": [
+                0,
+                0,
+                0
+            ],
+            "applyFog": true,
+            "delayLoadingFile": "assets/example.scene/geometries/49a6caf4-ce6f-400b-a320-a23ea8091f0c.babylonbinarymeshdata",
+            "boundingBoxMaximum": [
+                50,
+                50,
+                50
+            ],
+            "boundingBoxMinimum": [
+                -50,
+                -50,
+                -50
+            ],
+            "_binaryInfo": {
+                "positionsAttrDesc": {
+                    "count": 72,
+                    "stride": 3,
+                    "offset": 0,
+                    "dataType": 1
+                },
+                "normalsAttrDesc": {
+                    "count": 72,
+                    "stride": 3,
+                    "offset": 288,
+                    "dataType": 1
+                },
+                "uvsAttrDesc": {
+                    "count": 48,
+                    "stride": 2,
+                    "offset": 576,
+                    "dataType": 1
+                },
+                "indicesAttrDesc": {
+                    "count": 36,
+                    "stride": 1,
+                    "offset": 768,
+                    "dataType": 0
+                },
+                "subMeshesAttrDesc": {
+                    "count": 1,
+                    "stride": 5,
+                    "offset": 912,
+                    "dataType": 0
+                }
+            },
+            "positions": null,
+            "normals": null,
+            "uvs": null,
+            "hasUVs": true,
+            "indices": null
+        }
+    ],
+    "transformNodes": [],
+    "cameras": [],
+    "lights": [],
+    "materials": [
+        {
+            "tags": null,
+            "diffuse": [
+                0.08424114479649869,
+                0.04864001189060646,
+                0.5129310344827587
+            ],
+            "computeHighLevel": true,
+            "disableLighting": false,
+            "maxSimultaneousLights": 4,
+            "id": "f882a4ea-b8e2-4af2-bee5-1143275448e2",
+            "name": "New Cell Material",
+            "checkReadyOnEveryCall": false,
+            "checkReadyOnlyOnce": false,
+            "state": "",
+            "alpha": 0.2,
+            "backFaceCulling": true,
+            "textureRepetitionMode": 0,
+            "textureRepetitionHexTilingParams": [
+                1,
+                0.6,
+                7,
+                0.5
+            ],
+            "cullBackFaces": true,
+            "_alphaMode": [
+                2
+            ],
+            "_needDepthPrePass": false,
+            "disableDepthWrite": false,
+            "disableColorWrite": false,
+            "forceDepthWrite": false,
+            "depthFunction": 0,
+            "separateCullingPass": false,
+            "fogEnabled": true,
+            "pointSize": 1,
+            "zOffset": 0,
+            "zOffsetUnits": 0,
+            "pointsCloud": false,
+            "fillMode": 0,
+            "_isVertexOutputInvariant": false,
+            "stencil": {
+                "tags": null,
+                "func": 519,
+                "backFunc": 519,
+                "funcRef": 1,
+                "funcMask": 255,
+                "opStencilFail": 7680,
+                "opDepthFail": 7680,
+                "opStencilDepthPass": 7681,
+                "backOpStencilFail": 7680,
+                "backOpDepthFail": 7680,
+                "backOpStencilDepthPass": 7681,
+                "mask": 255,
+                "enabled": false
+            },
+            "uniqueId": 1784427731161,
+            "plugins": {},
+            "customType": "BABYLON.CellMaterial"
+        }
+    ],
+    "geometries": {
+        "boxes": [],
+        "spheres": [],
+        "cylinders": [],
+        "toruses": [],
+        "grounds": [],
+        "planes": [],
+        "torusKnots": [],
+        "vertexData": []
+    },
+    "metadata": {
+        "type": "Box",
+        "width": 100,
+        "depth": 100,
+        "height": 100,
+        "sideOrientation": 0
+    },
+    "basePoseMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+    ]
+}

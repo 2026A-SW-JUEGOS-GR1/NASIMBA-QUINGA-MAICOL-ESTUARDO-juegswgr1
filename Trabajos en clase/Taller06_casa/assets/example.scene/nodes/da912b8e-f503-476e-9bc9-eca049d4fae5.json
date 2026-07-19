@@ -1,0 +1,58 @@
+{
+    "tags": null,
+    "position": [
+        0,
+        0,
+        0
+    ],
+    "rotation": [
+        0,
+        0,
+        0
+    ],
+    "rotationQuaternion": [
+        -0.707106828689575,
+        0,
+        0,
+        0.707106709480286
+    ],
+    "scaling": [
+        100,
+        100,
+        100
+    ],
+    "billboardMode": 0,
+    "scalingDeterminant": 1,
+    "infiniteDistance": false,
+    "ignoreNonUniformScaling": false,
+    "reIntegrateRotationIntoRotationQuaternion": false,
+    "name": "Light_Ceiling2",
+    "id": "da912b8e-f503-476e-9bc9-eca049d4fae5",
+    "state": "",
+    "metadata": {
+        "parentId": 1784429897973
+    },
+    "type": "TransformNode",
+    "uniqueId": 1784429897974,
+    "localMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "isEnabled": true,
+    "animations": [],
+    "ranges": []
+}

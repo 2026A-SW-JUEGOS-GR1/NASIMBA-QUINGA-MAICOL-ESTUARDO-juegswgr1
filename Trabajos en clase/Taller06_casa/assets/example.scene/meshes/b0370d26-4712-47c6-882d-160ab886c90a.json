@@ -1,0 +1,289 @@
+{
+    "meshes": [
+        {
+            "name": "Pared_Oeste_Piso1 (Clone)",
+            "id": "b0370d26-4712-47c6-882d-160ab886c90a",
+            "uniqueId": 1784427912561,
+            "type": "Mesh",
+            "position": [
+                -113.08847048809548,
+                160,
+                152.41514998514185
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "scaling": [
+                0.2,
+                3,
+                5
+            ],
+            "localMatrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "isEnabled": true,
+            "isVisible": true,
+            "infiniteDistance": false,
+            "pickable": true,
+            "receiveShadows": true,
+            "billboardMode": 0,
+            "visibility": 1,
+            "alwaysSelectAsActiveMesh": false,
+            "checkCollisions": true,
+            "ellipsoid": [
+                0.5,
+                1,
+                0.5
+            ],
+            "ellipsoidOffset": [
+                0,
+                0,
+                0
+            ],
+            "doNotSyncBoundingInfo": false,
+            "isBlocker": false,
+            "sideOrientation": 1,
+            "isUnIndexed": false,
+            "geometryUniqueId": 1781909227629,
+            "geometryId": "226a8744-d9f6-4907-ba53-64c6f50c3a9e",
+            "subMeshes": null,
+            "materialUniqueId": 1784427912560,
+            "materialId": "0eef38bd-4bbb-4f7f-bb1e-4df2459c8255",
+            "metadata": {
+                "type": "Box",
+                "width": 100,
+                "depth": 100,
+                "height": 100,
+                "sideOrientation": 0
+            },
+            "instances": [],
+            "animations": [],
+            "ranges": [],
+            "layerMask": 268435455,
+            "alphaIndex": 1.7976931348623157e+308,
+            "hasVertexAlpha": false,
+            "overlayAlpha": 1,
+            "overlayColor": [
+                0,
+                0,
+                0
+            ],
+            "applyFog": true,
+            "delayLoadingFile": "assets/example.scene/geometries/226a8744-d9f6-4907-ba53-64c6f50c3a9e.babylonbinarymeshdata",
+            "boundingBoxMaximum": [
+                50,
+                50,
+                50
+            ],
+            "boundingBoxMinimum": [
+                -50,
+                -50,
+                -50
+            ],
+            "_binaryInfo": {
+                "positionsAttrDesc": {
+                    "count": 72,
+                    "stride": 3,
+                    "offset": 0,
+                    "dataType": 1
+                },
+                "normalsAttrDesc": {
+                    "count": 72,
+                    "stride": 3,
+                    "offset": 288,
+                    "dataType": 1
+                },
+                "uvsAttrDesc": {
+                    "count": 48,
+                    "stride": 2,
+                    "offset": 576,
+                    "dataType": 1
+                },
+                "indicesAttrDesc": {
+                    "count": 36,
+                    "stride": 1,
+                    "offset": 768,
+                    "dataType": 0
+                },
+                "subMeshesAttrDesc": {
+                    "count": 1,
+                    "stride": 5,
+                    "offset": 912,
+                    "dataType": 0
+                }
+            },
+            "positions": null,
+            "normals": null,
+            "uvs": null,
+            "hasUVs": true,
+            "indices": null
+        }
+    ],
+    "transformNodes": [],
+    "cameras": [],
+    "lights": [],
+    "materials": [
+        {
+            "tags": null,
+            "diffuseTexture": {
+                "tags": null,
+                "url": "assets/Textura_pared.jpg",
+                "uOffset": 0,
+                "vOffset": 0,
+                "uScale": 1,
+                "vScale": 1,
+                "uAng": 0,
+                "vAng": 0,
+                "wAng": 0,
+                "uRotationCenter": 0.5,
+                "vRotationCenter": 0.5,
+                "wRotationCenter": 0.5,
+                "homogeneousRotationInUVTransform": false,
+                "isBlocking": true,
+                "name": "assets/Textura_pared.jpg",
+                "metadata": {
+                    "baseSize": {
+                        "width": 626,
+                        "height": 417
+                    }
+                },
+                "hasAlpha": false,
+                "getAlphaFromRGB": false,
+                "level": 1,
+                "coordinatesIndex": 0,
+                "optimizeUVAllocation": true,
+                "coordinatesMode": 0,
+                "wrapU": 1,
+                "wrapV": 1,
+                "wrapR": 1,
+                "anisotropicFilteringLevel": 4,
+                "isCube": false,
+                "is3D": false,
+                "is2DArray": false,
+                "gammaSpace": true,
+                "invertZ": false,
+                "lodLevelInAlpha": false,
+                "lodGenerationOffset": 0,
+                "lodGenerationScale": 0,
+                "linearSpecularLOD": false,
+                "isRenderTarget": false,
+                "animations": [],
+                "invertY": true,
+                "samplingMode": 3,
+                "_creationFlags": 0,
+                "_useSRGBBuffer": false,
+                "internalTextureLabel": "C:/Users/MAICOL/source/repos/Taller5_casa/assets/Textura_par",
+                "noMipmap": false
+            },
+            "diffuse": [
+                1,
+                1,
+                1
+            ],
+            "computeHighLevel": true,
+            "disableLighting": false,
+            "maxSimultaneousLights": 4,
+            "id": "0eef38bd-4bbb-4f7f-bb1e-4df2459c8255",
+            "name": "New Cell Material",
+            "checkReadyOnEveryCall": false,
+            "checkReadyOnlyOnce": false,
+            "state": "",
+            "alpha": 1,
+            "backFaceCulling": true,
+            "textureRepetitionMode": 0,
+            "textureRepetitionHexTilingParams": [
+                1,
+                0.6,
+                7,
+                0.5
+            ],
+            "cullBackFaces": true,
+            "_alphaMode": [
+                2
+            ],
+            "_needDepthPrePass": false,
+            "disableDepthWrite": false,
+            "disableColorWrite": false,
+            "forceDepthWrite": false,
+            "depthFunction": 0,
+            "separateCullingPass": false,
+            "fogEnabled": true,
+            "pointSize": 1,
+            "zOffset": 0,
+            "zOffsetUnits": 0,
+            "pointsCloud": false,
+            "fillMode": 0,
+            "_isVertexOutputInvariant": false,
+            "stencil": {
+                "tags": null,
+                "func": 519,
+                "backFunc": 519,
+                "funcRef": 1,
+                "funcMask": 255,
+                "opStencilFail": 7680,
+                "opDepthFail": 7680,
+                "opStencilDepthPass": 7681,
+                "backOpStencilFail": 7680,
+                "backOpDepthFail": 7680,
+                "backOpStencilDepthPass": 7681,
+                "mask": 255,
+                "enabled": false
+            },
+            "uniqueId": 1784427912560,
+            "plugins": {},
+            "customType": "BABYLON.CellMaterial"
+        }
+    ],
+    "geometries": {
+        "boxes": [],
+        "spheres": [],
+        "cylinders": [],
+        "toruses": [],
+        "grounds": [],
+        "planes": [],
+        "torusKnots": [],
+        "vertexData": []
+    },
+    "metadata": {
+        "type": "Box",
+        "width": 100,
+        "depth": 100,
+        "height": 100,
+        "sideOrientation": 0
+    },
+    "basePoseMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+    ]
+}

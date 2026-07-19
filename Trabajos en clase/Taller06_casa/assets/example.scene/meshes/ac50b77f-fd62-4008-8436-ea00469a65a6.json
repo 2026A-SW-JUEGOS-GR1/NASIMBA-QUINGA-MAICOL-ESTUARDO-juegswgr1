@@ -1,0 +1,197 @@
+{
+    "meshes": [
+        {
+            "name": "RacerW.glb",
+            "id": "ac50b77f-fd62-4008-8436-ea00469a65a6",
+            "uniqueId": 1784046414936,
+            "type": "Mesh",
+            "position": [
+                -24.450460710196324,
+                10.100000000000136,
+                71.1146942608907
+            ],
+            "rotationQuaternion": [
+                0,
+                1,
+                0,
+                0
+            ],
+            "scaling": [
+                100,
+                100,
+                -100
+            ],
+            "localMatrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "isEnabled": true,
+            "isVisible": true,
+            "infiniteDistance": false,
+            "pickable": true,
+            "receiveShadows": true,
+            "billboardMode": 0,
+            "visibility": 1,
+            "alwaysSelectAsActiveMesh": false,
+            "checkCollisions": false,
+            "ellipsoid": [
+                0.5,
+                1,
+                0.5
+            ],
+            "ellipsoidOffset": [
+                0,
+                0,
+                0
+            ],
+            "doNotSyncBoundingInfo": false,
+            "isBlocker": false,
+            "sideOrientation": 1,
+            "isUnIndexed": false,
+            "materialId": "default material",
+            "metadata": {
+                "scripts": [
+                    {
+                        "enabled": true,
+                        "key": "scripts/CharacterController.ts",
+                        "_id": "cbe14ff3-30a9-452b-af18-d3800ed2f6cf",
+                        "values": {
+                            "_speed": {
+                                "type": "number",
+                                "value": 8
+                            },
+                            "_acceleration": {
+                                "type": "number",
+                                "value": 18
+                            },
+                            "_deceleration": {
+                                "type": "number",
+                                "value": 12
+                            },
+                            "_rotationLerp": {
+                                "type": "number",
+                                "value": 25
+                            },
+                            "_cameraFollowMoving": {
+                                "type": "number",
+                                "value": 0.08
+                            },
+                            "_cameraFollowIdle": {
+                                "type": "number",
+                                "value": 0.04
+                            },
+                            "_jumpForce": {
+                                "type": "number",
+                                "value": 22
+                            },
+                            "_cameraHeightOffset": {
+                                "type": "number",
+                                "value": 100
+                            },
+                            "_gravityStrength": {
+                                "type": "number",
+                                "value": 1.5
+                            }
+                        }
+                    }
+                ]
+            },
+            "instances": [],
+            "animations": [],
+            "ranges": [],
+            "layerMask": 268435455,
+            "alphaIndex": 1.7976931348623157e+308,
+            "hasVertexAlpha": false,
+            "overlayAlpha": 1,
+            "overlayColor": [
+                0,
+                0,
+                0
+            ],
+            "applyFog": true
+        }
+    ],
+    "transformNodes": [],
+    "cameras": [],
+    "lights": [],
+    "materials": [],
+    "metadata": {
+        "scripts": [
+            {
+                "enabled": true,
+                "key": "scripts/CharacterController.ts",
+                "_id": "cbe14ff3-30a9-452b-af18-d3800ed2f6cf",
+                "values": {
+                    "_speed": {
+                        "type": "number",
+                        "value": 8
+                    },
+                    "_acceleration": {
+                        "type": "number",
+                        "value": 18
+                    },
+                    "_deceleration": {
+                        "type": "number",
+                        "value": 12
+                    },
+                    "_rotationLerp": {
+                        "type": "number",
+                        "value": 25
+                    },
+                    "_cameraFollowMoving": {
+                        "type": "number",
+                        "value": 0.08
+                    },
+                    "_cameraFollowIdle": {
+                        "type": "number",
+                        "value": 0.04
+                    },
+                    "_jumpForce": {
+                        "type": "number",
+                        "value": 22
+                    },
+                    "_cameraHeightOffset": {
+                        "type": "number",
+                        "value": 100
+                    },
+                    "_gravityStrength": {
+                        "type": "number",
+                        "value": 1.5
+                    }
+                }
+            }
+        ]
+    },
+    "basePoseMatrix": [
+        -1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+    ]
+}

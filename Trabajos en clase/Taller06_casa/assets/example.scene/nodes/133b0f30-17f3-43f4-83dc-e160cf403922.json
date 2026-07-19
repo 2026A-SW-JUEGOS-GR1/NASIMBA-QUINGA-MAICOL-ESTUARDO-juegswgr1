@@ -1,0 +1,58 @@
+{
+    "tags": null,
+    "position": [
+        -0.135414004325867,
+        1.16245353221893,
+        -0.244694501161575
+    ],
+    "rotation": [
+        0,
+        0,
+        0
+    ],
+    "rotationQuaternion": [
+        -0.288497269153595,
+        0.645576775074005,
+        0.64557671546936,
+        0.28849732875824
+    ],
+    "scaling": [
+        8561.4736328125,
+        8561.4736328125,
+        8561.470703125
+    ],
+    "billboardMode": 0,
+    "scalingDeterminant": 1,
+    "infiniteDistance": false,
+    "ignoreNonUniformScaling": false,
+    "reIntegrateRotationIntoRotationQuaternion": false,
+    "name": "Light Desk",
+    "id": "133b0f30-17f3-43f4-83dc-e160cf403922",
+    "state": "",
+    "metadata": {
+        "parentId": 1784429350191
+    },
+    "type": "TransformNode",
+    "uniqueId": 1784429350194,
+    "localMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "isEnabled": true,
+    "animations": [],
+    "ranges": []
+}

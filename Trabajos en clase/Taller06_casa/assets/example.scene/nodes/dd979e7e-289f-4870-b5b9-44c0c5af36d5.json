@@ -1,0 +1,58 @@
+{
+    "tags": null,
+    "position": [
+        -0.777789831161499,
+        0.915704011917114,
+        0.419149547815323
+    ],
+    "rotation": [
+        0,
+        0,
+        0
+    ],
+    "rotationQuaternion": [
+        0.707106828689575,
+        5.33850723627438e-8,
+        0.707106709480286,
+        -5.33850830208848e-8
+    ],
+    "scaling": [
+        10000,
+        9999.998046875,
+        9999.998046875
+    ],
+    "billboardMode": 0,
+    "scalingDeterminant": 1,
+    "infiniteDistance": false,
+    "ignoreNonUniformScaling": false,
+    "reIntegrateRotationIntoRotationQuaternion": false,
+    "name": "Desk-V86Go2rlnq",
+    "id": "dd979e7e-289f-4870-b5b9-44c0c5af36d5",
+    "state": "",
+    "metadata": {
+        "parentId": 1784429350191
+    },
+    "type": "TransformNode",
+    "uniqueId": 1784429350193,
+    "localMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "isEnabled": true,
+    "animations": [],
+    "ranges": []
+}

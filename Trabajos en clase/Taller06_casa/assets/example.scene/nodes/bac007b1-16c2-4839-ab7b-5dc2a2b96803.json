@@ -1,0 +1,58 @@
+{
+    "tags": null,
+    "position": [
+        -0.556171655654907,
+        0.00874346494674683,
+        -0.603791356086731
+    ],
+    "rotation": [
+        0,
+        0,
+        0
+    ],
+    "rotationQuaternion": [
+        -6.16103150719027e-8,
+        0.646931052207947,
+        0.762548506259918,
+        -5.05379649240467e-9
+    ],
+    "scaling": [
+        0.0000536517291038763,
+        0.0000536517254658975,
+        0.0000536517254658975
+    ],
+    "billboardMode": 0,
+    "scalingDeterminant": 1,
+    "infiniteDistance": false,
+    "ignoreNonUniformScaling": false,
+    "reIntegrateRotationIntoRotationQuaternion": false,
+    "name": "Laptop bag",
+    "id": "bac007b1-16c2-4839-ab7b-5dc2a2b96803",
+    "state": "",
+    "metadata": {
+        "parentId": 1784429350191
+    },
+    "type": "TransformNode",
+    "uniqueId": 1784429350198,
+    "localMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "isEnabled": true,
+    "animations": [],
+    "ranges": []
+}

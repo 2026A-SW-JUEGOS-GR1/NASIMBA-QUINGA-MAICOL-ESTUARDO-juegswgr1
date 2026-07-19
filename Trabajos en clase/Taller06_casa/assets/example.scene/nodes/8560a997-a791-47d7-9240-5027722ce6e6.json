@@ -1,0 +1,58 @@
+{
+    "tags": null,
+    "position": [
+        -0.111141204833984,
+        0.918603181838989,
+        0.47175195813179
+    ],
+    "rotation": [
+        0,
+        0,
+        0
+    ],
+    "rotationQuaternion": [
+        0.50000011920929,
+        -0.499999850988388,
+        -0.500000059604645,
+        -0.499999940395355
+    ],
+    "scaling": [
+        154.397399902344,
+        154.397399902344,
+        154.397384643555
+    ],
+    "billboardMode": 0,
+    "scalingDeterminant": 1,
+    "infiniteDistance": false,
+    "ignoreNonUniformScaling": false,
+    "reIntegrateRotationIntoRotationQuaternion": false,
+    "name": "Computer Screen",
+    "id": "8560a997-a791-47d7-9240-5027722ce6e6",
+    "state": "",
+    "metadata": {
+        "parentId": 1784429350191
+    },
+    "type": "TransformNode",
+    "uniqueId": 1784429350195,
+    "localMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "isEnabled": true,
+    "animations": [],
+    "ranges": []
+}

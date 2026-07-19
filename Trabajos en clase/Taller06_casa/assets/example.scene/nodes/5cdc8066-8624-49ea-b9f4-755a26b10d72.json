@@ -1,0 +1,58 @@
+{
+    "tags": null,
+    "position": [
+        0,
+        0,
+        0
+    ],
+    "rotation": [
+        0,
+        0,
+        0
+    ],
+    "rotationQuaternion": [
+        0.7071068286895752,
+        0,
+        0,
+        0.7071068286895752
+    ],
+    "scaling": [
+        0.009999999776482582,
+        0.009999999776482582,
+        0.009999999776482582
+    ],
+    "billboardMode": 0,
+    "scalingDeterminant": 1,
+    "infiniteDistance": false,
+    "ignoreNonUniformScaling": false,
+    "reIntegrateRotationIntoRotationQuaternion": false,
+    "name": "Armature",
+    "id": "5cdc8066-8624-49ea-b9f4-755a26b10d72",
+    "state": "",
+    "metadata": {
+        "parentId": 1784046414936
+    },
+    "type": "TransformNode",
+    "uniqueId": 1784046415070,
+    "localMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "isEnabled": true,
+    "animations": [],
+    "ranges": []
+}

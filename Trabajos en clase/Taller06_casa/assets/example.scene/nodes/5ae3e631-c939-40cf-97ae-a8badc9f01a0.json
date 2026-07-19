@@ -1,0 +1,58 @@
+{
+    "tags": null,
+    "position": [
+        -1.38320755958557,
+        0.669755518436432,
+        0.30629426240921
+    ],
+    "rotation": [
+        0,
+        0,
+        0
+    ],
+    "rotationQuaternion": [
+        -0.481607407331467,
+        0.517739593982697,
+        0.51774001121521,
+        0.481606990098953
+    ],
+    "scaling": [
+        3.08162760734558,
+        3.08162760734558,
+        3.08162760734558
+    ],
+    "billboardMode": 0,
+    "scalingDeterminant": 1,
+    "infiniteDistance": false,
+    "ignoreNonUniformScaling": false,
+    "reIntegrateRotationIntoRotationQuaternion": false,
+    "name": "Chair",
+    "id": "5ae3e631-c939-40cf-97ae-a8badc9f01a0",
+    "state": "",
+    "metadata": {
+        "parentId": 1784429350191
+    },
+    "type": "TransformNode",
+    "uniqueId": 1784429350192,
+    "localMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "isEnabled": true,
+    "animations": [],
+    "ranges": []
+}

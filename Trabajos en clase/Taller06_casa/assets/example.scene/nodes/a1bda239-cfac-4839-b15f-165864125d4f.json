@@ -1,0 +1,58 @@
+{
+    "tags": null,
+    "position": [
+        0,
+        0,
+        0
+    ],
+    "rotation": [
+        0,
+        0,
+        0
+    ],
+    "rotationQuaternion": [
+        -0.707106828689575,
+        0,
+        0,
+        0.707106709480286
+    ],
+    "scaling": [
+        100,
+        100,
+        100
+    ],
+    "billboardMode": 0,
+    "scalingDeterminant": 1,
+    "infiniteDistance": false,
+    "ignoreNonUniformScaling": false,
+    "reIntegrateRotationIntoRotationQuaternion": false,
+    "name": "Couch_Small1",
+    "id": "a1bda239-cfac-4839-b15f-165864125d4f",
+    "state": "",
+    "metadata": {
+        "parentId": 1784429474706
+    },
+    "type": "TransformNode",
+    "uniqueId": 1784429474707,
+    "localMatrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "isEnabled": true,
+    "animations": [],
+    "ranges": []
+}
